@@ -63,3 +63,9 @@ body {
   fill: #e75480;
   cursor: pointer;
 }
+
+.stateAbbr {
+  font-family: sans-serif;
+  fill: #fff;
+  text-anchor: middle;
+}
